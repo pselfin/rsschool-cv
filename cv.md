@@ -1,8 +1,10 @@
 # Petr Selfin CV
 
 ![Petr Selfin](https://pro-self.ru/sites/default/files/styles/380x280/public/2018-08/IMG_7378-3.jpg "Petr Selfin")
-*Name:* Petr Selfin
-*Contact:*
+
+*Name:* **Petr Selfin**
+
+**Contact:**
 * Phone: +7 928 4298094
 * Telegram: pselfin
 * GitHub: https://github.com/pselfin/
