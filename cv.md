@@ -1,6 +1,6 @@
 # Petr Selfin CV
 
-[Petr Selfin](https://pro-self.ru/sites/default/files/styles/380x280/public/2018-08/IMG_7378-3.jpg "Petr Selfin")
+![Petr Selfin](https://pro-self.ru/sites/default/files/styles/380x280/public/2018-08/IMG_7378-3.jpg "Petr Selfin")
 *Name:* Petr Selfin
 *Contact:*
 * Phone: +7 928 4298094
