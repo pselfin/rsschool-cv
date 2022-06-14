@@ -20,3 +20,11 @@ h1, h2, h3 {
 #my-skils .container div {
     width: 48%;
 }
+
+/* Headre */
+
+header {
+    background: #1065c5;
+    color: #ffffff;
+    height: 50px;
+}
