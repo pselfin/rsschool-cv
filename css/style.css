@@ -1,5 +1,22 @@
 /* CSS for CV */
 
 body {
-    color: #fff;
+   
+}
+
+.flex {
+    display: flex;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1170px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+#my-skils .container div {
+    width: 48%;
 }
