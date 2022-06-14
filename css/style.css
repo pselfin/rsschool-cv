@@ -1,0 +1,95 @@
+/* CSS for CV */
+
+body {
+   margin: 0px;
+   min-height: 100vh;
+}
+
+.flex {
+    display: flex;
+}
+.flex div.four {
+    width: calc(100% / 4);
+}
+.flex div.three {
+    width: calc(100% / 3);
+}
+.flex div.two {
+    width: calc(100% / 2);
+}
+.container {
+    margin: 0 auto;
+    width: 1170px;
+}
+
+.container div {
+    margin: 0px 15px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+#my-skils i {
+    font-size: 150px;
+    color: #1065c5;
+    text-align: center;
+    display: block;
+}
+
+/* Headre */
+
+header {
+    background: #1065c5;
+    color: #ffffff;
+    height: 50px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+nav li a {
+    color: #ffffff;
+    font-size: 16px;
+    margin: 0px 20px;
+    padding: 15px;
+    text-decoration: none;
+    display: block;
+}
+
+nav li a:hover {
+    text-decoration: underline;
+    background-color: #4b82c2;
+    transition: .5s;
+}
+nav ul {margin: 0px;}
+nav ul li {
+    display: inline-block;
+    
+}
+
+
+pre {
+    background-color: #b4b9c0;
+    padding: 10px;
+    border: 2px solid #1065c5;
+
+}
+
+footer {
+    background-color: rgb(41, 41, 41);
+    padding: 20px;
+    color: #ffffff;
+}
+
+footer a {
+    color: #ffffff;
+}
+
+footer .copy {
+    margin-left: auto;
+}
+
+.map {
+    flex-grow: 1;
+}
