@@ -25,9 +25,20 @@ body {
 .container div {
     margin: 0px 15px;
 }
-
+h1 {
+    margin-top: 60px;
+    font-size: 55px;
+}
 h1, h2, h3 {
     text-align: center;
+}
+h2::after {
+    content: " ";
+    background-color: #1065c5;
+    width: 20%;
+    height: 8px;
+    display: block;
+    margin: -10px 35% 0px;
 }
 
 #my-skils i {
@@ -46,6 +57,10 @@ header {
     position: fixed;
     width: 100%;
     top: 0;
+}
+
+nav {
+    margin: 0 auto;
 }
 
 nav li a {
