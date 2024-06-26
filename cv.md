@@ -3,9 +3,12 @@
 ## About
 
 ![Avatar](img/avatar.png "Avatar")
+
 **Name:** Petr Selfin
+
 **Contact:** 
 * https://t.me/pselfin
+
 **About me**
 I play bass guitar, develop and promote websites
 
