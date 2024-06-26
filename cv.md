@@ -1,4 +1,4 @@
-# CV
+# Petr Selfin CV
 ***
 ## About
 
@@ -7,8 +7,8 @@
 **Name:** Petr Selfin
 
 **Contact:** 
-* Telegram: https://t.me/pselfin
-* GitHub: https://github.com/pselfin/
+* Telegram: [@pselfin](https://t.me/pselfin)
+* GitHub: [@pselfin](https://github.com/pselfin/)
 * Discord: Petr Selfin (@pselfin)
 
 **About me**
@@ -31,7 +31,7 @@ return a * b;
 
 ## Job
 
-Portfolio me and my small company: https://pro-self.ru
+Portfolio me and my small company: [pro-self.ru](https://pro-self.ru)
 
 ## Education
 Htmlbook.ru, some cource and book, forums, blogs))
