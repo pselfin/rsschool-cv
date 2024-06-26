@@ -7,9 +7,12 @@
 **Name:** Petr Selfin
 
 **Contact:** 
-* https://t.me/pselfin
+* Telegram: https://t.me/pselfin
+* GitHub: https://github.com/pselfin/
+* Discord: Petr Selfin (@pselfin)
 
 **About me**
+
 I play bass guitar, develop and promote websites
 
 ## Skills
