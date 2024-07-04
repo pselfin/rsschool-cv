@@ -48,7 +48,7 @@ main {
 main div.row {
   display: flex;
   gap: 20px;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 pre {
@@ -81,6 +81,9 @@ footer img {
   main {
     min-width: 320px;
     padding: 0 10px;
+  }
+  main div.row {
+    flex-direction: column;
   }
   .logo {
     display: none;
