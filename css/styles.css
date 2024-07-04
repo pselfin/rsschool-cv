@@ -1,20 +1,25 @@
 body {
   margin: 0;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
 }
 
 header {
   background-color: blue;
+  width: 100%;
 }
 header .row {
   display: flex;
-  margin: 0 auto;
+  align-items: center;
   max-width: 600px;
+  margin: 0 auto;
   justify-content: space-around;
 }
 header ul {
   display: flex;
   margin: 0;
   align-content: baseline;
+  flex-direction: row;
 }
 header ul li {
   padding: 10px 15px;
@@ -38,10 +43,12 @@ header .logo {
 main {
   margin: 0 auto;
   max-width: 600px;
+  padding: 0 10px;
 }
 main div.row {
   display: flex;
   gap: 20px;
+  flex-direction: column;
 }
 
 pre {
@@ -53,6 +60,7 @@ pre {
 footer {
   color: #fff;
   background-color: gray;
+  padding: 15px;
 }
 footer .row {
   display: flex;
@@ -67,6 +75,28 @@ footer a {
 footer img {
   width: 200px;
   height: auto;
+}
+
+@media (max-width: 600px) {
+  main {
+    min-width: 320px;
+    padding: 0 10px;
+  }
+  .logo {
+    display: none;
+  }
+  header ul {
+    flex-direction: column;
+  }
+  footer .row {
+    display: flex;
+    align-items: center;
+    min-width: 320px;
+    margin: 0 auto;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */
